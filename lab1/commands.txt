@@ -1,0 +1,64 @@
+cd C:\Users\161181\Desktop
+
+mkdir lab1
+
+notepad l1.txt
+
+git init
+
+git add .
+
+git commit -m "Initial commit"
+
+git add .
+
+git commit -m "modify l1.txt"
+
+git remote add origin https://github.com/GorgiZZ/lab1.git
+
+git push -u origin master
+
+git checkout -- l1.txt
+
+git branch logging
+
+git checkout logging
+
+notepad log.txt
+
+git log
+
+git add log.txt
+
+git commit
+
+git push origin logging
+
+git rebase master
+
+git checkout master
+
+git merge logging
+
+git push origin
+
+git branch allcommands
+
+notepad commands.txt
+
+git checkout allcommands
+
+git add commands.txt
+
+git commit
+
+git push origin allcommands
+
+
+
+
+
+
+
+
+
