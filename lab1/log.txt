@@ -1,0 +1,11 @@
+commit 13b861104369e6c975dc945bf3515d9b20d9c253 (HEAD -> logging, origin/master, master)
+Author: gjorgji.zhupan@students.finki.ukim.mk <gjorgji.zhupan@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:57:20 2018 +0100
+
+    modify l1.txt
+
+commit ffc339c54d8aaf9793196136736463e720ad66d8
+Author: gjorgji.zhupan@students.finki.ukim.mk <gjorgji.zhupan@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:54:55 2018 +0100
+
+    Initial commit
